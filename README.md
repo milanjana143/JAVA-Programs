@@ -21,3 +21,5 @@ Java was developed by **James Gosling** at **Sun Microsystems** in 1995. It foll
 
 Visit this repository for advance Java programming along with environment setup using Eclipse, Tomcat, MySQL Connector JAR and Command line client-
 https://github.com/milanjana143/Advance-Java
+
+JAVA Project (Book Store Application)- https://github.com/milanjana143/Book-Store-Application
